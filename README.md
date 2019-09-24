@@ -1,1 +1,1 @@
-# confif
+# config
