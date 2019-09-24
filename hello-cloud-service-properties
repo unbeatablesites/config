@@ -4,4 +4,4 @@ server.port=7979
 management.endpoints.web.exposure.include=*
 
 # the hello-cloud-service will use this as the greeting that it serves up
-officialGreeting="This is the greeting !!
+officialGreeting="This is the greeting !!"
